@@ -1,0 +1,80 @@
+﻿@model TaikoCordobaFinal.Areas.Admin.Models.FinanzasViewModel
+@using TaikoCordobaFinal.Entities
+@{
+    ViewBag.Title = "Finanzas";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+<div class="wrapper">
+    <div class="page-wrapper">
+        <div class="row">
+            <div class="col-md-10">
+
+                <h2>Finanzas</h2>
+                <p>Tabla de pagos de la cuota del mes anterior</p>
+                <br />
+
+               
+                <br />
+                <table class="table">
+                    <tr>
+                        <th>
+                            Integrante
+                        </th>
+                        <th>
+                            Monto
+                        </th>
+                        <th>
+                            Fecha
+                        </th>
+                        <th>
+                            Mes
+                        </th>
+                        <th>
+                            Talon de pago
+                        </th>
+
+                    </tr>
+
+                    @foreach (MesCuota unMesCuota in Model.MesCuotaMuestra)
+                    {
+                        <tr>
+                            <td>
+                                <a href="javascript:Admin.showModalCliente('@Url.Action("DetalleModal","Clientes", new { id = unMesCuota.Integrante.Id })');">
+                                    @unMesCuota.Integrante.Nombre
+                                </a>
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => unMesCuota.Monto)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => unMesCuota.Fecha)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => unMesCuota.Mes)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => unMesCuota.TalonPago)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => unMesCuota.Comentarios)
+                            </td>
+                            
+                        </tr>
+                    }
+
+
+                </table>
+                <p>
+                    @Html.ActionLink("Volver", "Finanzas", null, new { @class = "btn btn-danger btn-lg btn-fill" })
+                </p>
+                <div class="modal fade" id="modalGenerico" tabindex="-1" role="dialog">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts {
+    <script src="@Url.Content("~/Scripts/admin.js")" type="text/javascript"></script>
+}

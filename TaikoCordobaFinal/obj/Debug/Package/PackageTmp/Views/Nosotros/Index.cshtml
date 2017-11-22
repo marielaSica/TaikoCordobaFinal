@@ -1,0 +1,102 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<body id="Nosotros">
+    <div id="containerNosotros">
+
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h1 class="section-heading">Nuestra historia</h1>
+                    <h3 class="section-subheading">Desde nuestros comienzos hasta hoy, la misma pasión. Esta es la historia de Taiko Córdoba. </h3>
+                    <br />
+                    <br />
+                    <br />
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <ul class="timeline">
+                        <li>
+                            <div class="timeline-image">
+                                <img src="~/img/about1.JPG" class="img-circle img-responsive" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Año 2008</h4>
+                                    <h4 class="subheading">Creación del grupo</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p>Nuestro grupo fue creado en 2008 para la celebración del aniversario de la inmigración okinawense a la Argentina. La sede del grupo se encontraba en la Asociación Japonesa de Córdoba, que no contaba con ningún elementos en ese entonces. </p>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="~/img/about2.JPG" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Año 2013</h4>
+                                    <h4 class="subheading">Perfeccionamiento</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p>Hiroko Ikeda, una integrante de grupos de Eisa proviniente de Okinawa, llegó a la Argentina para instruirnos en su cultura y perfeccionar la técnica del grupo.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="~/img/about3.JPG" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Años 2013 a 2016</h4>
+                                    <h4 class="subheading">Crecimiento</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p>Poco a poco se incorporaron nuevos miembros, se adquirieron nuevos elementos -odaiko, paranku y shimedaiko- y se practicaron nuevos bailes, tanto tradicionales como contemporáneos.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="~/img/about4.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Año 2017</h4>
+                                    <h4 class="subheading">Independencia</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p>Taiko Córdoba se separó de la Asociación Japonesa de Córdoba y es ahora un grupo independiente, con nuevos elementos y un nuevo espíritu más abierto al público amante de la cultura japonesa tradicional.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                          
+                            <div class="text-center">
+                                <h1>
+                                    ¡Sé parte
+                                    <br>de nuestra
+                                    <br>historia!
+                                    <br>
+                                    <br>
+                                </h1>
+                                @Html.ActionLink("¡Unite a Taiko Córdoba!", "Index", "Inscripcion", null, new { @class = "btn btn-danger btn-lg btn-fill" })
+                                <br />
+                                <br />
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+

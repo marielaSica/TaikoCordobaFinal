@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title Taiko Córdoba Oficial</title>
+   
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/AdminStyles/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    @Html.Partial("_HeaderAdmin")
+    @RenderBody()
+   
+
+    <div class="page-wrapper">
+        <div class="row">
+            <div class="col-md-10">
+
+            </div>
+        </div>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/app")
+   
+
+   
+
+    @if (TempData[TaikoCordobaFinal.Utilities.Strings.KeyMensajeDeAccion] != null)
+    {
+        <script>
+            $(document).ready(function () {
+                App.showMessage(true, '@TempData[TaikoCordobaFinal.Utilities.Strings.KeyMensajeDeAccion].ToString()');
+            });
+        </script>
+    }
+
+    @RenderSection("scripts", required: false)
+</body>
+
+</html>
+

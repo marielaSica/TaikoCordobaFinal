@@ -1,0 +1,121 @@
+﻿@model TaikoCordobaFinal.Models.SolicitudEventoViewModel
+
+@{
+    ViewBag.Title = "Solicitud de Evento";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<body id="Evento">
+    <div class="page-header">
+
+        <div class="card card-register">
+            <h2>Solicitud de evento</h2>
+            <p class="text-muted">Complete el siguiente formulario para contratar a nuestro grupo para su evento. Los datos brindados pueden ser estimativos, por lo que deberan ser confirmados al aceptar el evento. Una vez recibidos los datos, nos comunicaremos con usted para indicarle el presupuesto por la contratación y cualquier otro tipo de condicion a través de las vías de comunicación explicitadas.</p>
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+
+                    <hr />
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <h4>Datos del Solicitante</h4>
+                    <br />
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.NombreSolicitante, htmlAttributes: new { @class = "control-label col-md-12" })
+                        <div class="col-md-12">
+                            @Html.EditorFor(model => model.NombreSolicitante, new { htmlAttributes = new { placeholder = "Ingrese nombre completo de la persona o institución que solicita el evento", @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.NombreSolicitante, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.TelefonoSolicitante, htmlAttributes: new { @class = "control-label col-md-12" })
+                        <div class="col-md-12">
+                            @Html.EditorFor(model => model.TelefonoSolicitante, new { htmlAttributes = new { placeholder = "Ingrese teléfono de contacto", @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.TelefonoSolicitante, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.EmailSolicitante, htmlAttributes: new { @class = "control-label col-md-12" })
+                        <div class="col-md-12">
+                            @Html.EditorFor(model => model.EmailSolicitante, new { htmlAttributes = new { placeholder = "Ingrese mail de contacto", @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.EmailSolicitante, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                    <h4>Datos del evento</h4>
+                    <br />
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.MotivoNombre, htmlAttributes: new { @class = "control-label col-md-12" })
+                        <div class="col-md-12">
+                            @Html.EditorFor(model => model.MotivoNombre, new { htmlAttributes = new { placeholder = "Ingrese nombre o motivo del evento: por ej. casamiento, fiesta de las colectividades, etc.", @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.MotivoNombre, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.FechaHora, htmlAttributes: new { @class = "control-label col-md-12" })
+                        <div class="col-md-12">
+                            @Html.EditorFor(model => model.FechaHora, new { htmlAttributes = new { placeholder = "Seleccione fecha y hora exacta del evento a realizar", @class = "form-control", @type = "datetime-local"  } })
+                            @Html.ValidationMessageFor(model => model.FechaHora, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Lugar, htmlAttributes: new { @class = "control-label col-md-12" })
+                        <div class="col-md-12">
+                            @Html.EditorFor(model => model.Lugar, new { htmlAttributes = new { placeholder = "Ingrese la dirección en donde se realizará el evento", @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.Lugar, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Duracion, htmlAttributes: new { @class = "control-label col-md-12" })
+                        <div class="col-md-12">
+                            @Html.EditorFor(model => model.Duracion,  new { htmlAttributes = new { placeholder = "Ingrese tiempo estimado de presentación", @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.Duracion, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Dimensiones, htmlAttributes: new { @class = "control-label col-md-12" })
+                        <div class="col-md-12">
+                            @Html.EditorFor(model => model.Dimensiones, new { htmlAttributes = new { placeholder = "Ingrese espacio disponible (ancho, largo y alto)", @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.Dimensiones, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.FechaLimite, htmlAttributes: new { @class = "control-label col-md-12" })
+                        <div class="col-md-12">
+                            @Html.EditorFor(model => model.FechaLimite, new { htmlAttributes = new { placeholder = "Seleccione fecha límite de confirmación", @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.FechaLimite, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Comentarios, htmlAttributes: new { @class = "control-label col-md-12" })
+                        <div class="col-md-12">
+                            @Html.EditorFor(model => model.Comentarios, new { htmlAttributes = new { placeholder = "Ingrese culquier comentario adicional" , @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.Comentarios, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                   
+
+                    <div class="form-group">
+                        <div class="col-md-12">
+                            <input type="submit" value="Enviar" class="btn btn-danger btn-lg btn-fill" />
+                        </div>
+                    </div>
+                </div>
+            }
+
+        </div>
+    </div>
+</body>
+
+@section scripts{
+    @Scripts.Render("~/bundles/jqueryval")
+}

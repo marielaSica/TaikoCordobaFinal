@@ -1,0 +1,98 @@
+﻿@model TaikoCordobaFinal.Entities.Integrante
+
+@{
+    ViewBag.Title = "DetalleIntegrantes";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div class="wrapper">
+    <div class="page-wrapper">
+        <div class="page-header">
+           
+            <div class="col-md-12 card card-register text-center">
+               
+                    <h3 class="text-darker">Detalle integrante</h3>
+                    <hr />
+                    <dl class="dl-horizontal">
+
+                        <dd style="height: 200px ; width: 200px">
+                            @if (!string.IsNullOrEmpty(Model.ImagenUri))
+                            {
+                                <img src="@Url.Content(Model.ImagenUri)" alt="Image" class="img-responsive img-circle " />
+                            }
+
+                        </dd>
+                    </dl>
+                    <br />
+                    <hr />
+                    
+                    <dl class="dl-horizontal">
+                        <dt>
+
+                            @Html.DisplayNameFor(model => model.Nombre)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Nombre)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Apellido)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Apellido)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Email)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Email)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Telefono)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Telefono)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.TelefonoEmergencia)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.TelefonoEmergencia)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Direccion)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Direccion)
+                        </dd>
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Estado)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Estado.Nombre)
+                        </dd>
+
+                    </dl>
+              
+              
+                    <br />
+                    <br />
+                    <p>
+                        @Html.ActionLink("Volver", "Integrantes", null, new { @class = "btn btn-danger btn-lg btn-fill" })
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+

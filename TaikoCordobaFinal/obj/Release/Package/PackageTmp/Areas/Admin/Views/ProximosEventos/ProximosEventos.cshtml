@@ -1,0 +1,82 @@
+﻿@model IEnumerable<TaikoCordobaFinal.Entities.Evento>
+
+@{
+    ViewBag.Title = "ProximosEventos";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="wrapper">
+    <div class="page-wrapper">
+        <div class="row">
+            <div class="col-md-12">
+
+                @Html.ActionLink("Nuevo Evento", "NuevoEvento", null, new { @class = "btn btn-danger btn-lg btn-fill" })
+                <br />
+                <br />
+                <h2>Proximos Eventos en Taiko Córdoba</h2>
+
+                @*<ul class="nav nav-pills">
+                        <li>@Html.ActionLink("Eventos próximos", "ProximosEventos", null, new { @class = "a" })</li>
+                        <li>@Html.ActionLink("Archivo", "ArchivoEventos", null, new { @class = "a" })</li>
+                    </ul>*@
+
+                <table class="table">
+
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.NombreSolicitante)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.MotivoNombre)
+                        </th>
+
+                        <th>
+                            @Html.DisplayNameFor(model => model.Fecha)
+                        </th>
+
+                        <th>
+                            @Html.DisplayNameFor(model => model.Lugar)
+                        </th>
+
+
+                    </tr>
+
+                    @foreach (var item in Model)
+            {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.NombreSolicitante)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.MotivoNombre)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Fecha)
+                            </td>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Lugar)
+                            </td>
+
+
+                            <td>
+                                @Html.ActionLink("Editar", "EditarEvento", new { id = item.Id }, new { @class = "btn btn-danger btn-lg btn-fill" })
+                            </td>
+
+                            <td>
+                                @Html.ActionLink("Detalle", "DetalleEventos", new { id = item.Id }, new { @class = "btn btn-danger btn-lg btn-fill" })
+                            </td>
+
+                            <td>
+                                @Html.ActionLink("Eliminar", "BorrarEvento", new { id = item.Id }, new { @class = "btn btn-danger btn-lg btn-fill" })
+                            </td>
+                           
+
+                        </tr>
+                    }
+
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

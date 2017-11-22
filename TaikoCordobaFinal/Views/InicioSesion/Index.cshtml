@@ -1,0 +1,52 @@
+﻿@model TaikoCordobaFinal.Models.IniciarSesion
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<body id="InicioSesion">
+    <div class="page-header">
+
+        <div class="card card-register">
+
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+                    <h2>Iniciar Sesión</h2>
+                    <br />
+
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Email, htmlAttributes: new {  @class = "control-label col-md-12" })
+                        <div class="col-md-12">
+                            @Html.EditorFor(model => model.Email, new { htmlAttributes = new { placeholder ="Ingrese mail autorizado" , @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-12" })
+                        <div class="col-md-12">
+                            @Html.EditorFor(model => model.Password, new { htmlAttributes = new { placeholder = "Ingrese contraseña" , @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-12">
+                            <input type="submit" value="Iniciar sesión" class="btn btn-danger btn-lg btn-fill" />
+                        </div>
+                    </div>
+                </div>
+            }
+
+        </div>
+    </div>
+</body>
+
+@section scripts{
+    @Scripts.Render("~/bundles/jqueryval")
+}

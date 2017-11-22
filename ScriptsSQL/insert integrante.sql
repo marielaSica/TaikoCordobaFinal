@@ -1,0 +1,1 @@
+INSERT INTO Integrante (ImagenUri, Nombre, Apellido,  Email, Telefono, TelefonoEmergencia, FechaNacimiento, Direccion ) VALUES ('', 'Brenda', 'Mazzarella',  'brenda@gmail.com', 22432432, 3243242, '23/12/1980 00:00:00', '') 

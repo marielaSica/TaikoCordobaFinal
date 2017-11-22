@@ -1,0 +1,370 @@
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\ApplicationInsights.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csc.exe
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csc.exe.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csc.rsp
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csi.exe
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csi.rsp
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.AppContext.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.Collections.Immutable.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.IO.FileSystem.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.Reflection.Metadata.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\vbc.exe
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\vbc.exe.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\vbc.rsp
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\VBCSCompiler.exe
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\VBCSCompiler.exe.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\TaikoCordobaFinal.dll.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\TaikoCordobaFinal.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\TaikoCordobaFinal.pdb
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\Antlr3.Runtime.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.DependencyCollector.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.Web.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.WindowsServer.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.ApplicationInsights.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.Web.Infrastructure.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\Newtonsoft.Json.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Helpers.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Mvc.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Optimization.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Razor.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.Deployment.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.Razor.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\WebGrease.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Helpers.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Mvc.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Optimization.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Razor.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.Deployment.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.Razor.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\Antlr3.Runtime.pdb
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\Newtonsoft.Json.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.ApplicationInsights.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.DependencyCollector.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.WindowsServer.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.Web.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.Helpers.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.Mvc.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.Optimization.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.Razor.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.WebPages.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\obj\Debug\TaikoCordobaFinal.csprojResolveAssemblyReference.cache
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\obj\Debug\TaikoCordobaFinal.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\TaikoCordobaFinal\obj\Debug\TaikoCordobaFinal.pdb
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\ApplicationInsights.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csc.exe
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csc.exe.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csc.rsp
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csi.exe
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csi.rsp
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.AppContext.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.Collections.Immutable.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.IO.FileSystem.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.Reflection.Metadata.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\vbc.exe
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\vbc.exe.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\vbc.rsp
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\VBCSCompiler.exe
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\VBCSCompiler.exe.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\TaikoCordobaFinal.dll.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\TaikoCordobaFinal.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\TaikoCordobaFinal.pdb
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Antlr3.Runtime.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.DependencyCollector.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.Web.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.WindowsServer.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.ApplicationInsights.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.Web.Infrastructure.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Newtonsoft.Json.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Helpers.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Mvc.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Optimization.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Razor.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.Deployment.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.Razor.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\WebGrease.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Helpers.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Mvc.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Optimization.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Razor.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.Deployment.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.Razor.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Antlr3.Runtime.pdb
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Newtonsoft.Json.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.ApplicationInsights.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.DependencyCollector.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.WindowsServer.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.Web.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.Helpers.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.Mvc.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.Optimization.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.Razor.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.WebPages.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\obj\Debug\TaikoCordobaFinal.csprojResolveAssemblyReference.cache
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\obj\Debug\TaikoCordobaFinal.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\obj\Debug\TaikoCordobaFinal.pdb
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\ApplicationInsights.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csc.exe
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csc.exe.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csc.rsp
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csi.exe
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csi.rsp
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.AppContext.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.Collections.Immutable.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.IO.FileSystem.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.Reflection.Metadata.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\vbc.exe
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\vbc.exe.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\vbc.rsp
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\VBCSCompiler.exe
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\VBCSCompiler.exe.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\TaikoCordobaFinal.dll.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\TaikoCordobaFinal.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\TaikoCordobaFinal.pdb
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Antlr3.Runtime.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.DependencyCollector.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.Web.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.WindowsServer.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.ApplicationInsights.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.Web.Infrastructure.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Newtonsoft.Json.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Helpers.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Mvc.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Optimization.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Razor.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.Deployment.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.Razor.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\WebGrease.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Helpers.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Mvc.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Optimization.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Razor.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.Deployment.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.Razor.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Antlr3.Runtime.pdb
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Newtonsoft.Json.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.ApplicationInsights.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.DependencyCollector.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.WindowsServer.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.Web.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.Helpers.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.Mvc.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.Optimization.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.Razor.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.WebPages.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\obj\Debug\TaikoCordobaFinal.csprojResolveAssemblyReference.cache
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\obj\Debug\TaikoCordobaFinal.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\backup de solucion al 5-10-2017\TaikoCordobaFinal\TaikoCordobaFinal\obj\Debug\TaikoCordobaFinal.pdb
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\ApplicationInsights.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csc.exe
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csc.exe.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csc.rsp
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csi.exe
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csi.rsp
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.AppContext.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.Collections.Immutable.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.IO.FileSystem.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.Reflection.Metadata.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\vbc.exe
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\vbc.exe.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\vbc.rsp
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\VBCSCompiler.exe
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\VBCSCompiler.exe.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\TaikoCordobaFinal.dll.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\TaikoCordobaFinal.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\TaikoCordobaFinal.pdb
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\Antlr3.Runtime.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.DependencyCollector.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.Web.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.WindowsServer.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.ApplicationInsights.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.Web.Infrastructure.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\Newtonsoft.Json.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Helpers.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Mvc.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Optimization.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Razor.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.Deployment.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.Razor.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\WebGrease.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Helpers.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Mvc.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Optimization.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Razor.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.Deployment.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.Razor.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\Antlr3.Runtime.pdb
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\Newtonsoft.Json.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.ApplicationInsights.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.DependencyCollector.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.WindowsServer.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.Web.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.Helpers.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.Mvc.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.Optimization.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.Razor.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.WebPages.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\obj\Debug\TaikoCordobaFinal.csprojResolveAssemblyReference.cache
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\obj\Debug\TaikoCordobaFinal.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\TaikoCordobaFinal\ENTREGA VIERNES 6\TaikoCordobaFinal\TaikoCordobaFinal\obj\Debug\TaikoCordobaFinal.pdb
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\ApplicationInsights.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csc.exe
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csc.exe.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csc.rsp
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csi.exe
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\csi.rsp
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.AppContext.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.Collections.Immutable.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.IO.FileSystem.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\System.Reflection.Metadata.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\vbc.exe
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\vbc.exe.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\vbc.rsp
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\VBCSCompiler.exe
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\roslyn\VBCSCompiler.exe.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\TaikoCordobaFinal.dll.config
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\TaikoCordobaFinal.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\TaikoCordobaFinal.pdb
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\Antlr3.Runtime.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.DependencyCollector.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.Web.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.WindowsServer.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.ApplicationInsights.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.Web.Infrastructure.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\Newtonsoft.Json.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Helpers.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Mvc.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Optimization.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Razor.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.Deployment.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.Razor.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\WebGrease.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Helpers.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Mvc.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Optimization.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.Razor.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.Deployment.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\System.Web.WebPages.Razor.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\Antlr3.Runtime.pdb
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\Newtonsoft.Json.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.ApplicationInsights.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.DependencyCollector.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.WindowsServer.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\Microsoft.AI.Web.xml
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.Helpers.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.Mvc.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.Optimization.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.Razor.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.WebPages.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\obj\Debug\TaikoCordobaFinal.csprojResolveAssemblyReference.cache
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\obj\Debug\TaikoCordobaFinal.dll
+E:\ComunidadIT\Taiko Cordoba proyecto individual\Solucion al 12-10 con finanzas hardcodeadas\TaikoCordobaFinal\TaikoCordobaFinal\obj\Debug\TaikoCordobaFinal.pdb

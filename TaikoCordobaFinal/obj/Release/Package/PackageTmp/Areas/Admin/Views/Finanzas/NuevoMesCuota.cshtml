@@ -1,0 +1,51 @@
+﻿@model TaikoCordobaFinal.Areas.Admin.Models.MesCuotaViewModel
+
+@{
+    ViewBag.Title = "NuevoMesCuota";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+<div class="wrapper">
+    <div class="page-wrapper">
+        <div class="row">
+            <div class="col-md-8">
+                <h2>Nuevo mes finanzas</h2>
+
+                @using (Html.BeginForm(null, null, FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                    @Html.AntiForgeryToken()
+                    @Html.EditorFor(model => model.Id)
+
+                    <div class="form-horizontal">
+
+                        <hr />
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+
+                        <div class="form-group">
+                            @Html.DropDownList("MesId", new SelectList(ViewBag.Meses, "Value", "Text"), "Todos los meses", new { @class = "form-control" })
+                        </div>
+
+                        <div class="form-group">
+                            @Html.DropDownList("AñoId", new SelectList(ViewBag.Años, "Value", "Text"), "Todos los años", new { @class = "form-control" })
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-offset-2 col-md-10">
+                                <input type="submit" value="Cargar nuevo mes" class="btn btn-danger btn-lg btn-fill" />
+                            </div>
+                        </div>
+                    </div>
+                }
+                <p>
+                    @Html.ActionLink("Volver", "Finanzas", null, new { @class = "btn btn-danger btn-lg btn-fill" })
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

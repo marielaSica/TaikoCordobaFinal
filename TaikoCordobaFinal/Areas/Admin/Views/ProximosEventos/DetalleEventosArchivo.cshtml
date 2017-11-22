@@ -1,0 +1,122 @@
+﻿@model TaikoCordobaFinal.Entities.Evento
+
+@{
+    ViewBag.Title = "DetalleEventosArchivo";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="wrapper">
+    <div class="page-wrapper">
+        <h2>Detalle del evento </h2>
+        <div class="row">
+            <div class="col-md-6">
+
+                <h4>Datos del Solicitante</h4>
+                <br />
+                <dl class="dl-horizontal">
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.NombreSolicitante)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.NombreSolicitante)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.TelefonoSolicitante)
+                    </dt>
+
+
+                    <dd>
+                        @Html.DisplayFor(model => model.TelefonoSolicitante)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.EmailSolicitante)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.EmailSolicitante)
+                    </dd>
+                </dl>
+            </div>
+
+            <div class="col-md-6">
+
+                <h4>Datos del Evento</h4>
+                <br />
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.MotivoNombre)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.MotivoNombre)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Fecha)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Fecha)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Lugar)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Lugar)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Duracion)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Duracion)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Dimensiones)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Dimensiones)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Comentarios)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Comentarios)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.Transporte)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.Transporte)
+                    </dd>
+
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.LinkFacebook)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.LinkFacebook)
+                    </dd>
+
+                </dl>
+            </div>
+        </div>
+        <p>
+            @Html.ActionLink("Volver", "ArchivoEventos", null, new { @class = "btn btn-danger btn-lg btn-fill" })
+        </p>
+    </div>
+</div>
